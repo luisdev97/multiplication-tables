@@ -1,0 +1,19 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "This is a line command application for mathematical operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Luis David Amador Montoro",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {}
+}
